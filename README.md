@@ -1,6 +1,12 @@
 # is-css-unit
 Check if a given value contains a valid CSS unit
 
+## Installation
+
+```
+npm install --save is-css-unit
+```
+
 ## Usage
 
 ```js

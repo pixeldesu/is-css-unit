@@ -1,6 +1,6 @@
 {
   "name": "is-css-unit",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Check if a given value contains a valid CSS unit",
   "main": "index.js",
   "scripts": {
