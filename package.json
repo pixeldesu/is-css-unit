@@ -1,0 +1,27 @@
+{
+  "name": "is-css-unit",
+  "version": "0.0.1",
+  "description": "Check if a given value contains a valid CSS unit",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pixeldesu/is-css-unit.git"
+  },
+  "keywords": [
+    "css",
+    "unit",
+    "check"
+  ],
+  "author": "Andreas Nedbal <andy@pixelde.su>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pixeldesu/is-css-unit/issues"
+  },
+  "homepage": "https://github.com/pixeldesu/is-css-unit#readme",
+  "devDependencies": {
+    "ava": "^0.21.0"
+  }
+}
